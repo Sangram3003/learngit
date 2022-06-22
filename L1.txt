@@ -1,4 +1,4 @@
-1, Introduce ur self?
+1. Introduce ur self?
 
 Good Morning, My name is Sangramsinh Patil.I've been working as a Hadoop Admin in CloudAge Global Services Pvt.Ltd. in pune
 since 2018 and it's been 3 years and I am a part of a team who is responsible for running production grade Big data clusters.
@@ -119,3 +119,4 @@ At the starting of my career for 2 years I have been working as a IP engineer bu
 __________________________________________________________________________
 25.Do you have any questions for me?
 What is the data life cycle of this project?
+there is no change
