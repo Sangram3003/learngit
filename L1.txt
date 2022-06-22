@@ -1,0 +1,121 @@
+1, Introduce ur self?
+
+Good Morning, My name is Sangramsinh Patil.I've been working as a Hadoop Admin in CloudAge Global Services Pvt.Ltd. in pune
+since 2018 and it's been 3 years and I am a part of a team who is responsible for running production grade Big data clusters.
+The environment that we use are AWS’s cloud environment along with Cloudera’s Distribution of Hadoop (CDH). I have worked on 
+many tools and services like HDFS, YARN, ETL tools like Hive, HBase data processing engine like Spark on Yarn and data 
+pipelining tools like Kafka. Initially I started working as an Associate where i used to work with the cloud team and would 
+do service ticket management and was responsible for handling P3 and P4 tickets along with that I was also responsible for 
+cluster monitoring and in the meantime I also learned about several tools like Kafka, Spark, Hive, HBase and got to know about 
+the HDFS in deep and did POC on it. Later on after 2 years as a Hadoop associate I got promoted as a Hadoop Admin where my 
+roles and responsibilities consisted of incident management handling P2 tickets, cluster upgradation, securing Hadoop cluster 
+using authentication, authorization, governance and encryption, checking health of services. Also I interact with the clients 
+sometimes. And as the data is increasing day by day which is challenging the businesses to aggregate, understand and use this 
+massive jumbles of data.So that's all from my end. Thank you!!!
+
+___________________________________________________
+2.What is your greatest strength? *
+
+1.My strength is to never give up on any difficult things. I will stick to the problem till I find solution how to fix it. In my past organization I have been praised by the client for submitting the project before the deadline. Good at understanding the requirement and fulfilling it.
+
+2.I always think that what I can bring to the Team is a strong in relationship building. I am happiest when I am engaging and planning how we can we provide our best support to our clients. Because as per my Boss opinion client care is our prime responsibility. So we always follow this line. And due to this I have gotten strong feedback in the past.one client said I was always giving best supports for their cluster maintaining.
+Over the course of my career , by understanding the challenges from multiple angles, I am to connect dot and create solution. Due to the same I am managing high performance Team.
+
+_________________________________________________________________
+
+3.What is your greatest weakness?
+
+well if I talk about my weakness I would say honestly thinking.
+I often think that I am constantly busy and can not find personal time apart from work
+ may be it is because of so much responsibilities I have with related to my project
+
+_______________________________________________________________________
+4.Why should we hire you?
+
+Honestly, I possess all the skills and experience that you're looking for. I'm pretty confident that I am the best candidate for this job role.
+_________________________________________________________________________________
+5.Why do you want to work here?
+I can see the your organization is fast growing and doing good business , i am also looking for such place where i can also grow along with the organizational growth, the skill and expertise that I am having are matching to your requirements. I am sure that if I work along with such immerging organization then i will be learning new skills and I can enter in new world of technology. I can also see the rules policy and system in the organization is good for employee benefits where I can expect better work life balance. I really want to wok with company where the employee and organization has mutual respect and growth. And I found this place similar to this environment.
+
+________________________________________________________________________________________________
+6.Tell me about a time you showed leadership?
+Recently there was a situation where my manager needed to take medical leave and was unable to come into work for a few weeks. This coincided with a major deadline that he was leading. I knew that if this project wasn't completed on time, we were at risk of losing a major client. I looked to my right and my left, and there wasn't anyone else who could own the project, so I jumped in with both feet and took the initiative. I went through the files and developed a schedule detailing what needed to be completed, and I worked with my coworkers to ensure they were on board too. In the end, we were able to complete the project by the deadline. The client was pleased and stayed on as a loyal customer to the company. When my boss came back, he gave me an end-of-quarter bonus because he was impressed I was able to rally everyone to complete the project.
+________________________________________________________________________________________________
+7.Tell me about a time you were successful on a team?
+I think that strong organizational skills are some of the most important for a leader to have. My company has an annual summer barbecue, and the person who used to organize the event every year recently left the company for a new job. Since I’d helped them in the past, I volunteered to run it this year. It’s a potluck event and we usually have a few organized activities throughout the day. I sent out a survey to get a feel for who wanted to bring what dishes and which activities people were most interested in.
+
+__________________________________________________________________
+8.What would your co-workers say about you?
+Hardworking with positive mindset who is ready to face any kind of challenges. Goal and result oriented which helps the team in achieving the client expectations.
+
+Punctual, hard, working and Honest.
+
+_______________________________________________________________________________________
+9.Why do you want to leave your current role?
+
+I like to face new challenges. in my current role I have achieved most of the challenges and now it is not much challenging. I want to evolve and excel my knowledge. And also I want to get strong financially.
+_________________________________________________________________________________________________________
+
+10.Describe your most challenging project?
+
+So in my earlier project, i was part of a team responsible for clusters Management and the clients requirment for their execution engine changed from Mapreduce to Spark as client was expecting a huge surge in the data volumn in comming weeks and wanted to process the data faster using new execution engine. The project was challenging becasue changing a execution engine takes a lot of planning as i needed to revisit a alot project related aspects, such as cluster planning, resource management, configuration management and performance tuning and i had to do these changes in very short amount of time. I also had to constantly stay in contact with other teams as their applications were connected to our clusters and needed a lot of coordination between all involved teams. We created an in-depth plan for this transition. It required a lot of extra hours. I had to work extra hours ,on weekends to create a plan on how we can manage the resources effectivly with this new engine. It got a bit frustrating as some of the teams were not on schedule with their assigned tasks. But In the end, we did meet our deadlines and we sucessfully
+migrated to new execution engine. The client was quite impressed with our efforts.
+_________________________________________________________________________________________________
+
+11.Tell me about something you’ve accomplished that you are proud of?
+Well when I was working on my first project as Hadoop administrator , I realized that for this particular project if we can change the architecture and the lifecycle of data it will help us boost our progress and we can actually successfully deliver this project. So I decided to discuss about this with my seniors and they were impressed . We made this changes and results were exceptional and project was a success. I got praised by my seniors and I am proud I grabbed the opportunity to imprint a positive image in my organization.
+_________________________________________________________________________________________________________
+
+12.What are your salary expectations?
+Well, currently I am having 8.5 so as per current market and with considerable my relivent experience of total 6 years I am expecting 16 LPA.
+
+___________________________________________________________________________
+
+13.What do you like to do outside of work?
+As I told you I am professional chess player so whenever I got time I spent my time to play chess and doing swimming. Afterwards I also like to explore new places.
+____________________________________________________________________
+
+14.Tell me about a time you had to manage conflicting priorities?
+My job has multiple conflicting priorities where it can be difficult
+to know what is most important and urgent.
+I remember one scenario while I was doing pre-requisite a guy from data migration team
+came to me and said, why are you disabling Selinux when I am going to upload compliance
+data over it do enable it right now.
+I told him dear sir I am disabling it because it is my prerequisite I can not install Hadoop
+on top of secured Linux kernel.
+but once I am done with my pre-requisite then can i will enable Selinux again don't you worry.
+____________________________________________________________________________
+15.Where do you see yourself in 5 years?
+As per my professional experience and my interest I will see myself as a solution architect.
+
+____________________________________________________________________________________________
+
+16.Describe your leadership style.
+I always think about my team members and always take stand for them infront management team. I always try to solve doubt and issues. Always focus on individual capabilities and performance. I believe that good leader pay attention, listen activity, and play to strength on each partner and colleague.
+___________________________________________________________________________________________________
+17.Tell me about a time you failed or made a mistake.
+In my first job I was made one mistake and not informed to my manager. But on next day manager got to know about my mistake but he was waiting for me to inform. After several attempts I was not able to resolve that issue so I went to manager and told that senerio.he given solution and also said that he was know about my mistake. & I got to learn that if you done any mistakes then first inform your manager then try to solve that issue.
+__________________________________________________________________________________________________________________
+18.Tell me about a time you worked with a difficult person.
+In my starting of career I faced lots of difficulties about my office time with boss. He daily hold me till 10 pm in office and say to come at 8.30 in office.
+_______________________________________________________________________________________________________________
+19.Tell me about a time you had to persuade someone
+Well when I was working on my first project as Hadoop administrator , I realized that for this particular project if we can change the architecture and the lifecycle of data it will help us boost our progress and we can actually successfully deliver this project. So I decided to discuss about this with Management and they were impressed . We made this changes and results were exceptional and project was a success. I got praised by my seniors and I am proud I grabbed the opportunity to imprint a positive image in my organization.
+_____________________________________________________________________________________________________________________.
+20.Tell me about a time you disagreed with someone.
+While working on a company's project during the capacity planning my colleague wants to take machine that are on a higher end. I somehow disagree to his selection and told him about the alternative. After a while he convinced with my selection and it goes without any error.
+______________________________________________________________________________________________________________
+21.Tell me about a time you created a goal and achieved it.
+In 2015 I have created a goal of CCNA certification within one month. I prepared myself withi n this month and clear the CCNA exam.
+_________________________________________________________________________________________________________________
+22.Tell me about a time you surpassed people’s expectations.
+I always set a target as per my won benchmark for eg if the organization's SLA benchmark is of 95% so I will make my own SLA benchmark of 98% because of that it easy for to achieve organization's benchmark which is 95% and that's why I am always on above expectations
+_________________________________________________________________________________________________________________________
+23.Tell me about a time you had to handle pressure.
+At end of every project deadline we have to handle pressure from management team.
+____________________________________________________________________________________
+24.Tell me about a time you had to learn something quickly.
+At the starting of my career for 2 years I have been working as a IP engineer but my close friends given information about big data scope and other things. So I started studying in weekends and prepared myself within 4 month and switch my career in Big data.
+__________________________________________________________________________
+25.Do you have any questions for me?
+What is the data life cycle of this project?
